@@ -30,3 +30,4 @@ zal moeten wegwerken!
 | Knowledge & Data | 7.0 |
 | Toegepaste Machine Learning | 7.0 |
 | Zoekmachines | 6.5 |
+| **gemiddelde in datanose** | 6.81 |
