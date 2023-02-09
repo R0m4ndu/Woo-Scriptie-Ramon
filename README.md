@@ -1,7 +1,9 @@
 # Maak WOO-monitoring mogelijk Scriptie
 
 Naam: Ramon Duursma
+
 UvAnetID: 12851779
+
 Coördinator: Maarten Marx
 
 Tot nu toe waardeloos maar Overleaf link = https://www.overleaf.com/read/fbjwfxpbvncc
