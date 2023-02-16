@@ -41,4 +41,5 @@ zal moeten wegwerken!
 | Knowledge & Data | 7.0 |
 | Toegepaste Machine Learning | 7.0 |
 | Zoekmachines | 6.5 |
-| **Gemiddelde in Datanose** | **6.81** |
+| Var4Good | 7.0 |
+| **Gemiddelde in Datanose** | **6.82** |
