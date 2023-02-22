@@ -42,4 +42,5 @@ zal moeten wegwerken!
 | Toegepaste Machine Learning | 7.0 |
 | Zoekmachines | 6.5 |
 | Var4Good | 7.0 |
+| Foundations of Multi Agent Systems | 7.5 |
 | **Gemiddelde in Datanose** | **6.82** |
