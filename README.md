@@ -43,4 +43,4 @@ zal moeten wegwerken!
 | Zoekmachines | 6.5 |
 | Var4Good | 7.0 |
 | Foundations of Multi Agent Systems | 7.5 |
-| **Gemiddelde in Datanose** | **6.82** |
+| **Gemiddelde in Datanose** | **6.85** |
