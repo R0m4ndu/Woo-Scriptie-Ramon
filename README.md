@@ -17,7 +17,7 @@ Verder is voor mij nog veel onduidelijk hoe alles precies in zijn werk zou gaan.
 
 ***LinkedIn Account*** https://www.linkedin.com/in/ramon-duursma-323aa1223/. Verder nog geen relevante werkervaring m.b.t. informatiekunde.
 
-**Cijferlijst** eerste 2 jaar + Zoekmachines (wellicht relevant).
+**Cijferlijst**
 In de cijferlijst ontbreekt Organisatie: Analyse en Ontwikkeling wat ik wel met een voldoende heb afgesloten, maar waar ik nog een POR blokkade heb die ik dit jaar 
 zal moeten wegwerken!
 
