@@ -1,0 +1,1139 @@
+[
+    {
+        "resource": "nl.ws0654.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0654.Dijkgraaf.2023.1",
+                    "dc_title": "M.J.J. Jacobs - Aa en Maas",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van M.J.J. Jacobs, Dijkgraaf voor waterschap Aa en Maas",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0654",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Aa en Maas",
+                    "foaf_initials": "M.J.J.",
+                    "foaf_lastName": "Jacobs",
+                    "foaf_name": "M.J.J. Jacobs",
+                    "foi_website": "https://www.aaenmaas.nl/bestuur/dagelijks-bestuur/dagelijks-bestuur/mario-jacobs/",
+                    "foi_linkedin": "https://nl.linkedin.com/in/mariojacobs1972",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2021-04-23",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0654.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0654.Secretaris-directeur.2023.1",
+                    "dc_title": "P. Sennema - Aa en Maas",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van P. Sennema, Secretaris-directeur voor waterschap Aa en Maas",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0654",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Aa en Maas",
+                    "foaf_initials": "P.",
+                    "foaf_lastName": "Sennema",
+                    "foaf_name": "P. Sennema",
+                    "foi_website": "https://www.aaenmaas.nl/bestuur/directieteam/pieter-sennema/",
+                    "foi_linkedin": "https://nl.linkedin.com/in/pietersennema",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0155.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0155.Dijkgraaf.2023.1",
+                    "dc_title": "J.J. Sylvester - Amstel, Gooi en Vecht",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van J.J. Sylvester, Dijkgraaf voor waterschap Amstel, Gooi en Vecht",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0155",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Amstel, Gooi en Vecht",
+                    "foaf_initials": "J.J.",
+                    "foaf_lastName": "Sylvester",
+                    "foaf_name": "J.J. Sylvester",
+                    "foi_website": "https://www.agv.nl/nieuws/2022/oktober/nieuwe-dijkgraaf-joyce-sylvester/",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2022-10-25",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0155.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0155.Secretaris-directeur.2023.1",
+                    "dc_title": "G. Nottelman - Amstel, Gooi en Vecht",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van G. Nottelman, Secretaris-directeur voor waterschap Amstel, Gooi en Vecht",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0155",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Amstel, Gooi en Vecht",
+                    "foaf_initials": "G.",
+                    "foaf_lastName": "Nottelman",
+                    "foaf_name": "G. Nottelman",
+                    "foi_website": "https://www.agv.nl/nieuws/2020/april/gritta-nottelman-nieuwe-secretaris-directeur-waterschap-amstel-gooi-en-vecht/",
+                    "foi_linkedin": "https://nl.linkedin.com/in/grittanottelman",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2020-05-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0652.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0652.Dijkgraaf.2023.1",
+                    "dc_title": "C.J.G.M. de Vet - Brabantse Delta",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van C.J.G.M. de Vet, Dijkgraaf voor waterschap Brabantse Delta",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0652",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Brabantse Delta",
+                    "foaf_initials": "C.J.G.M.",
+                    "foaf_lastName": "de Vet",
+                    "foi_title": "drs.",
+                    "foaf_name": "C.J.G.M. de Vet",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0652.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0652.Secretaris-directeur.2023.1",
+                    "dc_title": "A.F.M. Meuleman - Brabantse Delta",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van A.F.M. Meuleman, Secretaris-directeur voor waterschap Brabantse Delta",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0652",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Brabantse Delta",
+                    "foaf_initials": "A.F.M.",
+                    "foaf_lastName": "Meuleman",
+                    "foi_title": "dr.",
+                    "foaf_name": "A.F.M. Meuleman",
+                    "foi_website": "https://www.brabantsedelta.nl/arthur-meuleman",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0372.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0372.Dijkgraaf.2023.1",
+                    "dc_title": "P.H.W.M. Daverveldt - Hoogheemraadschap van Delfland",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van P.H.W.M. Daverveldt, Dijkgraaf voor waterschap Hoogheemraadschap van Delfland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0372",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap van Delfland",
+                    "foaf_initials": "P.H.W.M.",
+                    "foaf_lastName": "Daverveldt",
+                    "foi_title": "dr.",
+                    "foaf_name": "P.H.W.M. Daverveldt",
+                    "foi_website": "https://www.hhdelfland.nl/over-ons/bestuur/dagelijks-bestuur/leden-db/dijkgraaf-piet-hein-daverveldt/",
+                    "foi_linkedin": "https://nl.linkedin.com/in/piet-hein-daverveldt-870a175",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0372.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0372.Secretaris-directeur.2023.1",
+                    "dc_title": "P.C. Janssen - Hoogheemraadschap van Delfland",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van P.C. Janssen, Secretaris-directeur voor waterschap Hoogheemraadschap van Delfland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0372",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap van Delfland",
+                    "foaf_initials": "P.C.",
+                    "foaf_lastName": "Janssen",
+                    "foi_title": "ir.",
+                    "foaf_name": "P.C. Janssen",
+                    "foi_linkedin": "https://nl.linkedin.com/in/pieter-janssen-a96b025",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0539.Watergraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0539.Watergraaf.2023.1",
+                    "dc_title": "E. de Ridder - De Dommel",
+                    "foi_function": "Watergraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van E. de Ridder, Watergraaf voor waterschap De Dommel",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0539",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "De Dommel",
+                    "foaf_initials": "E.",
+                    "foaf_lastName": "de Ridder",
+                    "foaf_name": "E. de Ridder",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2019-06-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0539.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0539.Secretaris-directeur.2023.1",
+                    "dc_title": "H. Kielenstijn - De Dommel",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van H. Kielenstijn, Secretaris-directeur voor waterschap De Dommel",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0539",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "De Dommel",
+                    "foaf_initials": "H.",
+                    "foaf_lastName": "Kielenstijn",
+                    "foaf_name": "H. Kielenstijn",
+                    "foi_website": "https://www.dommel.nl/henk-kielenstijn-secretaris-directeur",
+                    "foi_linkedin": "https://nl.linkedin.com/in/henk-kielenstijn-88657190",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2021-06-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0653.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0653.Dijkgraaf.2023.1",
+                    "dc_title": "L.M.B.C. Kroon - Wetterskip Frysl\u00e2n",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van L.M.B.C. Kroon, Dijkgraaf voor waterschap Wetterskip Frysl\u00e2n",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0653",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Wetterskip Frysl\u00e2n",
+                    "foaf_initials": "L.M.B.C.",
+                    "foaf_lastName": "Kroon",
+                    "foaf_name": "L.M.B.C. Kroon",
+                    "foi_website": "https://www.wetterskipfryslan.nl/news/luzette-kroon-geinstalleerd-als-dijkgraaf-van-wetterskip-fryslan",
+                    "foi_linkedin": "https://nl.linkedin.com/in/luzette-kroon-161476b",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2020-02-03",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0653.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0653.Secretaris-directeur.2023.1",
+                    "dc_title": "O. Bijlsma - Wetterskip Frysl\u00e2n",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van O. Bijlsma, Secretaris-directeur voor waterschap Wetterskip Frysl\u00e2n",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0653",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Wetterskip Frysl\u00e2n",
+                    "foaf_initials": "O.",
+                    "foaf_lastName": "Bijlsma",
+                    "foaf_name": "O. Bijlsma",
+                    "foi_linkedin": "https://nl.linkedin.com/in/oedsbijlsma",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0655.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0655.Dijkgraaf.2023.1",
+                    "dc_title": "J. Bonjer - Hollandse Delta",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van J. Bonjer, Dijkgraaf voor waterschap Hollandse Delta",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0655",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hollandse Delta",
+                    "foaf_initials": "J.",
+                    "foaf_lastName": "Bonjer",
+                    "foaf_name": "J. Bonjer",
+                    "foi_website": "https://www.wshd.nl/dijkgraaf-jan-bonjer",
+                    "foi_linkedin": "https://nl.linkedin.com/in/jan-f-bonjer-9277a3b",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2020-05-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0655.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0655.Secretaris-directeur.2023.1",
+                    "dc_title": "S.J. Steendijk - Hollandse Delta",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van S.J. Steendijk, Secretaris-directeur voor waterschap Hollandse Delta",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0655",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hollandse Delta",
+                    "foaf_initials": "S.J.",
+                    "foaf_lastName": "Steendijk",
+                    "foaf_name": "S.J. Steendijk",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2020-09-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0651.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0651.Dijkgraaf.2023.1",
+                    "dc_title": "R.P.G. Bosma - Hoogheemraadschap Hollands Noorderkwartier",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van R.P.G. Bosma, Dijkgraaf voor waterschap Hoogheemraadschap Hollands Noorderkwartier",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0651",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap Hollands Noorderkwartier",
+                    "foaf_initials": "R.P.G.",
+                    "foaf_lastName": "Bosma",
+                    "foi_title": "Ir.",
+                    "foaf_name": "R.P.G. Bosma",
+                    "foi_linkedin": "https://nl.linkedin.com/in/remcobosma",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2023-02-02",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0651.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0651.Secretaris-directeur.2023.1",
+                    "dc_title": "M.J. Kuipers - Hoogheemraadschap Hollands Noorderkwartier",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van M.J. Kuipers, Secretaris-directeur voor waterschap Hoogheemraadschap Hollands Noorderkwartier",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0651",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap Hollands Noorderkwartier",
+                    "foaf_initials": "M.J.",
+                    "foaf_lastName": "Kuipers",
+                    "foaf_name": "M.J. Kuipers",
+                    "foi_website": "https://www.hhnk.nl/martin-kuipers",
+                    "foi_linkedin": "https://www.linkedin.com/posts/kuipersmartin_versterking-markermeerdijken-vanuit-de-lucht-activity-6919041678607581184-4x3q",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0646.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0646.Dijkgraaf.2023.1",
+                    "dc_title": "G.J. ten Brink - Hunze en Aa's",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van G.J. ten Brink, Dijkgraaf voor waterschap Hunze en Aa's",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0646",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hunze en Aa's",
+                    "foaf_initials": "G.J.",
+                    "foaf_lastName": "ten Brink",
+                    "foaf_name": "G.J. ten Brink",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2017-08-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0646.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0646.Secretaris-directeur.2023.1",
+                    "dc_title": "H. K\u00fcpers - Hunze en Aa's",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van H. K\u00fcpers, Secretaris-directeur voor waterschap Hunze en Aa's",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0646",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hunze en Aa's",
+                    "foaf_initials": "H.",
+                    "foaf_lastName": "K\u00fcpers",
+                    "foi_title": "drs. ing.",
+                    "foaf_name": "H. K\u00fcpers",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0665.Voorzitter.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0665.Voorzitter.2023.1",
+                    "dc_title": "P.F.C.W. van der Broeck - Waterschap Limburg",
+                    "foi_function": "Voorzitter",
+                    "dc_description": "Bereikbaarheidsgegevens van P.F.C.W. van der Broeck, Voorzitter voor waterschap Waterschap Limburg",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0665",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Waterschap Limburg",
+                    "foaf_initials": "P.F.C.W.",
+                    "foaf_lastName": "van der Broeck",
+                    "foi_title": "drs. ing.",
+                    "foaf_name": "P.F.C.W. van der Broeck",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2017-01-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0665.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0665.Secretaris-directeur.2023.1",
+                    "dc_title": "E.J.M. Keulers - Waterschap Limburg",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van E.J.M. Keulers, Secretaris-directeur voor waterschap Waterschap Limburg",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0665",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Waterschap Limburg",
+                    "foaf_initials": "E.J.M.",
+                    "foaf_lastName": "Keulers",
+                    "foi_title": "ir.",
+                    "foaf_name": "E.J.M. Keulers",
+                    "foi_website": "https://www.waterschaplimburg.nl/@5368/erik-keulers/",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0647.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0647.Dijkgraaf.2023.1",
+                    "dc_title": "R. van der Schaaf - Noorderzijlvest",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van R. van der Schaaf, Dijkgraaf voor waterschap Noorderzijlvest",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0647",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Noorderzijlvest",
+                    "foaf_initials": "R.",
+                    "foaf_lastName": "van der Schaaf",
+                    "foaf_name": "R. van der Schaaf",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2022-07-06",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0647.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0647.Secretaris-directeur.2023.1",
+                    "dc_title": "Bas Tammes - Noorderzijlvest",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van Bas Tammes, Secretaris-directeur voor waterschap Noorderzijlvest",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0647",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Noorderzijlvest",
+                    "foaf_initials": "B.",
+                    "foaf_firstName": "Bas",
+                    "foaf_lastName": "Tammes",
+                    "foaf_name": "Bas Tammes",
+                    "foi_website": "https://www.noorderzijlvest.nl/secretaris-directeur-bas-tammes",
+                    "foi_linkedin": "https://nl.linkedin.com/in/bastammes",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2019-09-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0152.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0152.Dijkgraaf.2023.1",
+                    "dc_title": "H.Th.M. Pieper - Rijn en IJssel",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van H.Th.M. Pieper, Dijkgraaf voor waterschap Rijn en IJssel",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0152",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Rijn en IJssel",
+                    "foaf_initials": "H.Th.M.",
+                    "foaf_lastName": "Pieper",
+                    "foaf_name": "H.Th.M. Pieper",
+                    "foi_website": "https://www.wrij.nl/actueel/nieuwsoverzicht/hein-pieper-zes-jaar-dijkgraaf",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2011-04-15",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0152.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0152.Secretaris-directeur.2023.1",
+                    "dc_title": "C. Roos - Rijn en IJssel",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van C. Roos, Secretaris-directeur voor waterschap Rijn en IJssel",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0152",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Rijn en IJssel",
+                    "foaf_initials": "C.",
+                    "foaf_lastName": "Roos",
+                    "foi_title": "drs.",
+                    "foaf_name": "C. Roos",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0650.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0650.Dijkgraaf.2023.1",
+                    "dc_title": "H.C. Klavers - Zuiderzeeland",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van H.C. Klavers, Dijkgraaf voor waterschap Zuiderzeeland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0650",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Zuiderzeeland",
+                    "foaf_initials": "H.C.",
+                    "foaf_lastName": "Klavers",
+                    "foi_title": "ir.",
+                    "foaf_name": "H.C. Klavers",
+                    "foi_linkedin": "https://nl.linkedin.com/in/hetty-klavers-96004b14a",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0650.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0650.Secretaris-directeur.2023.1",
+                    "dc_title": "W. Slob - Zuiderzeeland",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van W. Slob, Secretaris-directeur voor waterschap Zuiderzeeland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0650",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Zuiderzeeland",
+                    "foaf_initials": "W.",
+                    "foaf_lastName": "Slob",
+                    "foaf_name": "W. Slob",
+                    "foi_linkedin": "https://nl.linkedin.com/in/wouter-slob-03810918",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2017-09-11",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0663.Watergraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0663.Watergraaf.2023.1",
+                    "dc_title": "S.M.M. Kuks - Vechtstromen",
+                    "foi_function": "Watergraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van S.M.M. Kuks, Watergraaf voor waterschap Vechtstromen",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0663",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Vechtstromen",
+                    "foaf_initials": "S.M.M.",
+                    "foaf_lastName": "Kuks",
+                    "foi_title": "prof. dr.",
+                    "foaf_name": "S.M.M. Kuks",
+                    "foi_linkedin": "https://nl.linkedin.com/in/stefankuks",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0663.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0663.Secretaris-directeur.2023.1",
+                    "dc_title": "R.I. Andringa - Vechtstromen",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van R.I. Andringa, Secretaris-directeur voor waterschap Vechtstromen",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0663",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Vechtstromen",
+                    "foaf_initials": "R.I.",
+                    "foaf_lastName": "Andringa",
+                    "foi_title": "drs.",
+                    "foaf_name": "R.I. Andringa",
+                    "foi_website": "https://www.vechtstromen.nl/bestuur/dagelijks-bestuur/richard-andringa/",
+                    "foi_linkedin": "https://nl.linkedin.com/in/richardandringa",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0662.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0662.Dijkgraaf.2023.1",
+                    "dc_title": "S.H.M. Ornstein - Vallei en Veluwe",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van S.H.M. Ornstein, Dijkgraaf voor waterschap Vallei en Veluwe",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0662",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Vallei en Veluwe",
+                    "foaf_initials": "S.H.M.",
+                    "foaf_lastName": "Ornstein",
+                    "foi_title": "mr.",
+                    "foaf_name": "S.H.M. Ornstein",
+                    "foaf_mbox": "mornstein@vallei-veluwe.nl",
+                    "foaf_phone": "06022485644",
+                    "foi_website": "https://www.vallei-veluwe.nl/over-ons/ons-bestuur/dagelijks-bestuur/marijn-ornstein/",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2021-03-26",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0662.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0662.Secretaris-directeur.2023.1",
+                    "dc_title": "K.A. Blokland - Vallei en Veluwe",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van K.A. Blokland, Secretaris-directeur voor waterschap Vallei en Veluwe",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0662",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Vallei en Veluwe",
+                    "foaf_initials": "K.A.",
+                    "foaf_lastName": "Blokland",
+                    "foi_title": "drs. ing.",
+                    "foaf_name": "K.A. Blokland",
+                    "foaf_mbox": "KBlokland@Vallei-Veluwe.nl",
+                    "foaf_phone": "06 15 62 97 13",
+                    "foi_website": "https://www.vallei-veluwe.nl/over-ons/ons-bestuur/dagelijks-bestuur/karl-blokland/",
+                    "foi_linkedin": "https://nl.linkedin.com/in/karl-blokland-05871814",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2017-04-19",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0636.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0636.Dijkgraaf.2023.1",
+                    "dc_title": "J.C.H. Haan MCM - Hoogheemraadschap De Stichtse Rijnlanden",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van J.C.H. Haan MCM, Dijkgraaf voor waterschap Hoogheemraadschap De Stichtse Rijnlanden",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0636",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap De Stichtse Rijnlanden",
+                    "foaf_initials": "J.C.H.",
+                    "foaf_lastName": "Haan MCM",
+                    "foi_title": "ing.",
+                    "foaf_name": "J.C.H. Haan MCM",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2019-09-02",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0636.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0636.Secretaris-directeur.2023.1",
+                    "dc_title": "J. Goedhart - Hoogheemraadschap De Stichtse Rijnlanden",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van J. Goedhart, Secretaris-directeur voor waterschap Hoogheemraadschap De Stichtse Rijnlanden",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0636",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap De Stichtse Rijnlanden",
+                    "foaf_initials": "J.",
+                    "foaf_lastName": "Goedhart",
+                    "foaf_name": "J. Goedhart",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0656.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0656.Dijkgraaf.2023.1",
+                    "dc_title": "A.J.B. van der Klugt - Hoogheemraadschap van Schieland en de Krimpenerwaard",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van A.J.B. van der Klugt, Dijkgraaf voor waterschap Hoogheemraadschap van Schieland en de Krimpenerwaard",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0656",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap van Schieland en de Krimpenerwaard",
+                    "foaf_initials": "A.J.B.",
+                    "foaf_lastName": "van der Klugt",
+                    "foi_title": "drs.",
+                    "foaf_name": "A.J.B. van der Klugt",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2019-06-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0656.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0656.Secretaris-directeur.2023.1",
+                    "dc_title": "M.J.H. van Kuijk - Hoogheemraadschap van Schieland en de Krimpenerwaard",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van M.J.H. van Kuijk, Secretaris-directeur voor waterschap Hoogheemraadschap van Schieland en de Krimpenerwaard",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0656",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap van Schieland en de Krimpenerwaard",
+                    "foaf_initials": "M.J.H.",
+                    "foaf_lastName": "van Kuijk",
+                    "foaf_name": "M.J.H. van Kuijk",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0661.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0661.Dijkgraaf.2023.1",
+                    "dc_title": "A.J.G. (Toine) Poppelaars - Scheldestromen",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van A.J.G. (Toine) Poppelaars, Dijkgraaf voor waterschap Scheldestromen",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0661",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Scheldestromen",
+                    "foaf_initials": "A.J.G.",
+                    "foaf_lastName": "(Toine) Poppelaars",
+                    "foi_title": "mr. drs.",
+                    "foaf_name": "A.J.G. (Toine) Poppelaars",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0661.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0661.Secretaris-directeur.2023.1",
+                    "dc_title": "J. Daane RA - Scheldestromen",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van J. Daane RA, Secretaris-directeur voor waterschap Scheldestromen",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0661",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Scheldestromen",
+                    "foaf_initials": "J.",
+                    "foaf_lastName": "Daane RA",
+                    "foi_title": "drs.",
+                    "foaf_name": "J. Daane RA",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2022-02-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0621.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0621.Dijkgraaf.2023.1",
+                    "dc_title": "prof.J.C. Verdaas - Rivierenland",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van prof.J.C. Verdaas, Dijkgraaf voor waterschap Rivierenland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0621",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Rivierenland",
+                    "foaf_initials": "prof.J.C.",
+                    "foaf_lastName": "Verdaas",
+                    "foi_title": "dr.",
+                    "foaf_name": "prof.J.C. Verdaas",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2019-06-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0621.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0621.Secretaris-directeur.2023.1",
+                    "dc_title": "Z.C. Vonk - Rivierenland",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van Z.C. Vonk, Secretaris-directeur voor waterschap Rivierenland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0621",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Rivierenland",
+                    "foaf_initials": "Z.C.",
+                    "foaf_lastName": "Vonk",
+                    "foi_title": "ir.",
+                    "foaf_name": "Z.C. Vonk",
+                    "foi_linkedin": "https://nl.linkedin.com/pulse/waterschapper-aan-het-woord-kees-vonk-secretaris-directeur-",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2015-02-27",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0616.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0616.Dijkgraaf.2023.1",
+                    "dc_title": "R.A.M. van der Sande - Hoogheemraadschap van Rijnland",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van R.A.M. van der Sande, Dijkgraaf voor waterschap Hoogheemraadschap van Rijnland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0616",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap van Rijnland",
+                    "foaf_initials": "R.A.M.",
+                    "foaf_lastName": "van der Sande",
+                    "foaf_name": "R.A.M. van der Sande",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2017-09-01",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0616.Secretaris - Algemeen directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0616.Secretaris - Algemeen directeur.2023.1",
+                    "dc_title": "M. Middendorp - Hoogheemraadschap van Rijnland",
+                    "foi_function": "Secretaris - Algemeen directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van M. Middendorp, Secretaris - Algemeen directeur voor waterschap Hoogheemraadschap van Rijnland",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0616",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Hoogheemraadschap van Rijnland",
+                    "foaf_initials": "M.",
+                    "foaf_lastName": "Middendorp",
+                    "foaf_name": "M. Middendorp",
+                    "foi_linkedin": "https://nl.linkedin.com/in/marielmiddendorp",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2020-04-15",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0664.Dijkgraaf.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0664.Dijkgraaf.2023.1",
+                    "dc_title": "D.S. (Dirk-Siert) Schoonman - Drents Overijsselse Delta",
+                    "foi_function": "Dijkgraaf",
+                    "dc_description": "Bereikbaarheidsgegevens van D.S. (Dirk-Siert) Schoonman, Dijkgraaf voor waterschap Drents Overijsselse Delta",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0664",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Drents Overijsselse Delta",
+                    "foaf_initials": "D.S.",
+                    "foaf_lastName": "(Dirk-Siert) Schoonman",
+                    "foi_title": "dhr.",
+                    "foaf_name": "D.S. (Dirk-Siert) Schoonman",
+                    "foaf_type": "Waterschap",
+                    "foi_startDate": "2020-08-25",
+                    "foi_files": []
+                }
+            }
+        }
+    },
+    {
+        "resource": "nl.ws0664.Secretaris-directeur.2023",
+        "infobox": {
+            "foi_totalDossiers": 1,
+            "foi_dossiers": {
+                "0": {
+                    "dc_identifier": "nl.ws0664.Secretaris-directeur.2023.1",
+                    "dc_title": "E. de Kruijk - Drents Overijsselse Delta",
+                    "foi_function": "Secretaris-directeur",
+                    "dc_description": "Bereikbaarheidsgegevens van E. de Kruijk, Secretaris-directeur voor waterschap Drents Overijsselse Delta",
+                    "dc_source": "https://organisaties.overheid.nl/archive/exportOO_waterschap.xml",
+                    "dc_publisher": "ws0664",
+                    "dc_creator": "Ramon Duursma",
+                    "foi_retrievedDate": "2023-05-30",
+                    "dc_date_year": "2023",
+                    "dc_publisher_name": "Drents Overijsselse Delta",
+                    "foaf_initials": "E.",
+                    "foaf_lastName": "de Kruijk",
+                    "foi_title": "ir.",
+                    "foaf_name": "E. de Kruijk",
+                    "foaf_type": "Waterschap",
+                    "foi_files": []
+                }
+            }
+        }
+    }
+]
