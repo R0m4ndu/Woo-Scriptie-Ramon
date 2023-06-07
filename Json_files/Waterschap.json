@@ -749,8 +749,8 @@
                     "foaf_name": "S.H.M. Ornstein",
                     "foaf_mbox": "mornstein@vallei-veluwe.nl",
                     "foaf_phone": "06022485644",
-                    "foi_bezoekadres": "Steenbokstraat 10 7324 AX Apeldoorn",
-                    "foi_postadres": "4142 7320 AC Apeldoorn",
+                    "foi_visitAddress": "Steenbokstraat 10 7324 AX Apeldoorn",
+                    "foi_mailAddress": "4142 7320 AC Apeldoorn",
                     "foi_startDate": "2021-03-26",
                     "foi_function": "Dijkgraaf",
                     "foi_files": []
@@ -780,8 +780,8 @@
                     "foaf_name": "K.A. Blokland",
                     "foaf_mbox": "KBlokland@Vallei-Veluwe.nl",
                     "foaf_phone": "06 15 62 97 13",
-                    "foi_bezoekadres": "Steenbokstraat 10 7324 AX Apeldoorn",
-                    "foi_postadres": "4142 7320 AC Apeldoorn",
+                    "foi_visitAddress": "Steenbokstraat 10 7324 AX Apeldoorn",
+                    "foi_mailAddress": "4142 7320 AC Apeldoorn",
                     "foi_startDate": "2017-04-19",
                     "foi_function": "Secretaris-directeur",
                     "foi_files": []
