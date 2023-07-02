@@ -1,0 +1,33 @@
+<p:functie p:systeemId="29099706">
+	<p:naam>Woo-contactpersoon</p:naam>
+	<p:medewerkers>
+		<p:medewerker p:systeemId="29099708">
+			<p:naam>Mevr. V. Vroege</p:naam>
+			<p:contact>
+				<p:telefoonnummers>
+					<p:telefoonnummer>
+						<p:nummer>(0573) 28 92 22</p:nummer>
+						<p:label>algemeen</p:label>
+					</p:telefoonnummer>
+				</p:telefoonnummers>
+				<p:emailadressen>
+					<p:emailadres>
+						<p:email>info@lochem.nl</p:email>
+						<p:label>algemeen</p:label>
+					</p:emailadres>
+				</p:emailadressen>
+				<p:internetadressen>
+					<p:internetadres>
+						<p:url>https://www.lochem.nl/bestuur-en-organisatie/niet-tevreden-over-de-gemeente/woo-verzoek</p:url>
+						<p:label>algemeen</p:label>
+					</p:internetadres>
+				</p:internetadressen>
+			</p:contact>
+			<p:startDatum>2023-01-01</p:startDatum>
+		</p:medewerker>
+		<p:medewerker p:systeemId="29099718">
+			<p:naam>Bestuursjuristen van de afdeling Bestuur en Organisatie</p:naam>
+			<p:startDatum>2023-01-01</p:startDatum>
+		</p:medewerker>
+	</p:medewerkers>
+</p:functie>
